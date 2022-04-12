@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// 这个可以称之为数据结构
+// 类似于 RDD
 public class Task implements Serializable {
   List<Integer> datas = Arrays.asList(1, 2, 3, 4);
 
